@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "nf start",
-    "postinstall": "bower install && gulp bower",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tim Guibord <tim@guibord.info>",
